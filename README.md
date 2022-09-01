@@ -5,3 +5,5 @@ Here we performed FER using transfer learning on VGG16 by training on FER13[trai
 ​
 
 Looking at the test accuracy of 91% on a foreign data[CK+], it explains that VGG16 is a robust model which performed effectively on new data which suggests its use on other facial dataset too. ​
+
+Link to dataset and notebook: https://www.kaggle.com/voonadhanvanth/fer2013-cf-vgg16-transferlearning 
