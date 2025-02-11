@@ -26,13 +26,6 @@ This project implements a state-of-the-art Facial Emotion Recognition (FER) syst
 2. **Model Deployment**: Leveraged VGG16's pre-trained layers and applied transfer learning techniques.
 3. **Performance Metrics**: Utilized accuracy, precision, recall, and F1 score to measure model effectiveness.
 
-## Installation
-
-```bash
-git clone https://github.com/yourusername/facial-emotion-recognition.git
-cd facial-emotion-recognition
-pip install -r requirements.txt
-```
 
 ## Usage
 
